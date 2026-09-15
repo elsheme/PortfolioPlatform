@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/BuildingBlocks/">
+    <Project Path="src/BuildingBlocks/Portfolio.SharedKernel/Portfolio.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Chat/">
+    <Project Path="src/Services/Chat/Portfolio.Chat.Api/Portfolio.Chat.Api.csproj" />
+    <Project Path="src/Services/Chat/Portfolio.Chat.Application/Portfolio.Chat.Application.csproj" />
+    <Project Path="src/Services/Chat/Portfolio.Chat.Domain/Portfolio.Chat.Domain.csproj" />
+    <Project Path="src/Services/Chat/Portfolio.Chat.Infrastructure/Portfolio.Chat.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Core/">
+    <Project Path="src/Services/Core/Portfolio.Core.Api/Portfolio.Core.Api.csproj" />
+    <Project Path="src/Services/Core/Portfolio.Core.Application/Portfolio.Core.Application.csproj" />
+    <Project Path="src/Services/Core/Portfolio.Core.Domain/Portfolio.Core.Domain.csproj" />
+    <Project Path="src/Services/Core/Portfolio.Core.Infrastructure/Portfolio.Core.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Gateway/">
+    <Project Path="src/Services/Gateway/Portfolio.ApiGateway/Portfolio.ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/">
+    <Project Path="src/Services/Identity/Portfolio.Identity.Api/Portfolio.Identity.Api.csproj" />
+    <Project Path="src/Services/Identity/Portfolio.Identity.Application/Portfolio.Identity.Application.csproj" />
+    <Project Path="src/Services/Identity/Portfolio.Identity.Domain/Portfolio.Identity.Domain.csproj" />
+    <Project Path="src/Services/Identity/Portfolio.Identity.Infrastructure/Portfolio.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="Portfolioplatform/Portfolioplatform.csproj" />
+</Solution>
