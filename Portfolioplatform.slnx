@@ -25,5 +25,4 @@
     <Project Path="src/Services/Identity/Portfolio.Identity.Domain/Portfolio.Identity.Domain.csproj" />
     <Project Path="src/Services/Identity/Portfolio.Identity.Infrastructure/Portfolio.Identity.Infrastructure.csproj" />
   </Folder>
-  <Project Path="Portfolioplatform/Portfolioplatform.csproj" />
 </Solution>
