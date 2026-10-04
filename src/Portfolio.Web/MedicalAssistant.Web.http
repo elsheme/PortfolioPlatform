@@ -1,0 +1,6 @@
+@MedicalAssistant.Web_HostAddress = http://localhost:5071
+
+GET {{MedicalAssistant.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
